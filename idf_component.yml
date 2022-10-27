@@ -1,0 +1,5 @@
+dependencies:
+  idf: '>=4.1'
+description: This component is an example, to be used with the IDF component manager.
+url: https://github.com/espressif/example_components/tree/main/cmp
+version: 3.3.8
