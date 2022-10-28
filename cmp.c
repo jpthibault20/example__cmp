@@ -2,5 +2,5 @@
 
 void cmp_hello(void)
 {
-        printf("Hello from example component!\n");
+        printf("Hello from example librairie!\n");
 }
